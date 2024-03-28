@@ -16,7 +16,7 @@
     * Why not?
 
 ```text
-ANSWER Why not? HERE
+The fractorials of numbers greater than 12 exceed the range of the long data type which no longer hold the result accurately. 
 ```
 
 3. Convert factorial so that it performs its calculation using **BigIntegers** and returns a **BigInteger** as a result.
@@ -24,9 +24,11 @@ ANSWER Why not? HERE
 4. Try displaying the table again with your modified factorial method.
     * Is it correct up to 30?
     * How high can you make it go?
+    
 
 ```text
-ANSWER #4 HERE
+you can calculate factorials for extremely large integers limits only by available memory.
+   computational time and memory constraints may effect performance though.
 ```
 
 ## Submission
